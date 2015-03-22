@@ -1,2 +1,3 @@
-# repo-spring-javaconfig
-Spring JavaConfig
+# examples-frontend
+====================
+only front end
