@@ -1,3 +1,3 @@
 # examples-frontend
 ====================
-only front end
+a repository to gather some projects concern frontend only
